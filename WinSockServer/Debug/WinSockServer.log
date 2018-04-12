@@ -1,0 +1,11 @@
+﻿  Server.cpp
+c:\users\milic\desktop\e3582013_prviblok\winsockserver\server.cpp(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\milic\desktop\e3582013_prviblok\winsockserver\server.cpp(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\milic\desktop\e3582013_prviblok\winsockserver\server.cpp(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\milic\desktop\e3582013_prviblok\winsockserver\server.cpp(108): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+  WinSockServer.vcxproj -> C:\Users\milic\Desktop\E3582013_PRVIBLOK\Debug\WinSockServer.exe
+  WinSockServer.vcxproj -> C:\Users\milic\Desktop\E3582013_PRVIBLOK\Debug\WinSockServer.pdb (Partial PDB)
